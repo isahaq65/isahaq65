@@ -79,7 +79,7 @@
 
 ### Github Activity ✔:
 <a href="https://github.com/isahaq65">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&show_icons=true&line_height=27" alt="isahaq65's github stats"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=dracula" alt="isahaq65's github stats"/>
 </a>
 
 <br/>
