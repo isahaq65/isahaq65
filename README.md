@@ -78,9 +78,11 @@
 <br/>
 
 ### Github Activity ✔:
-<a href="https://github.com/isahaq65">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=dracula" alt="isahaq65's github stats"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahaq65&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=isahaq65">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=dracula">
+<img src="https://metrics.lecoq.io/KasRoudra">	
+<img src="https://github-profile-trophy.vercel.app/?username=isahaq65&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 
 <br/>
 <br/>
