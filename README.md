@@ -9,7 +9,7 @@
 - 🔭 I'm a full-stack software engineer.
 
   
-- 📱 I’m currently working on `Backend`, `NodeJs` ,`Java`, `Spring Boot`, 
+- 📱 I’m currently working on `Backend`, `NodeJs`, `Spring Boot`, 
   
  
 - 🖥 I’m currently learning `System Design`, `Docker`, `Blockchain`
@@ -85,7 +85,7 @@
   </td><td valign="top" width="33%">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=dracula">
     </td><td valign="top" width="33%">
-<img src="https://metrics.lecoq.io/isahaq65">	
+    </td></tr></table>
 <img src="https://github-profile-trophy.vercel.app/?username=isahaq65&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 
 <br/>
