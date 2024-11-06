@@ -63,10 +63,9 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 
@@ -82,7 +81,7 @@
 </td><td valign="top" width="33%">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
   </td><td valign="top" width="33%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=white">
     </td><td valign="top" width="33%">
     </td></tr></table>
 <img src="https://github-profile-trophy.vercel.app/?username=isahaq65&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
