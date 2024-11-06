@@ -80,11 +80,11 @@
 ### Github Activity ✔:
 
 <a href="https://github.com/isahaq65">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahaq65&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahaq65" />
   </a>
 
 <a href="https://github.com/isahaq65">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&show_icons=true&theme=tokyonight&line_height=27" alt="isahaq65's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&show_icons=true&line_height=27" alt="isahaq65's github stats"/>
 </a>
 
 <br/>
