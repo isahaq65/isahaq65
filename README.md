@@ -82,10 +82,10 @@
 </td><td valign="top" width="33%">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
   </td><td valign="top" width="33%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=dracula">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65>
     </td><td valign="top" width="33%">
     </td></tr></table>
-<img src="https://github-profile-trophy.vercel.app/?username=isahaq65&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+<img src="https://github-profile-trophy.vercel.app/?username=isahaq65&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 
 <br/>
 <br/>
