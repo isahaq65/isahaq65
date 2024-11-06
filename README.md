@@ -1,17 +1,10 @@
-## Hi there, this is Md. Isahaq Ali 👋
--- 🔭 I'm a full-stack software engineer.
--- 📱 I’m currently working on `Backend`, `NodeJs` ,`Java`, `Spring Boot`
--- 🖥 I’m currently learning `System Design`, `Docker`, `Blockchain`
--- 👯 I’m looking to collaborate on Innovation
--- 🤔 I’m looking for help with Js
--- 💬 Ask me about Anything through mail
--- ⚡ Fun fact: you are visiting my profile
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Isahaq,  full-stack software engineer</div>  
+### <div align="center">Hi there, this is Md. Isahaq Ali</div>  
   
 - 🔭 I'm a full-stack software engineer.
 
