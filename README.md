@@ -77,5 +77,17 @@
 
 <br/>
 
+### Github Activity ✔:
 
+<a href="https://github.com/isahaq65">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/isahaq">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
 
