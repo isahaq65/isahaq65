@@ -1,9 +1,4 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi there, this is Md. Isahaq Ali</div>  
   
 - 🔭 I'm a full-stack software engineer.
@@ -90,3 +85,9 @@
 <br/>
 <br/>
 
+
+### Contact with Me :
+
+[![Linkedin](https://img.shields.io/badge/-isahaq_ali-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/JoykishanSharma](https://www.linkedin.com/in/md-isahaq-ali-037860175/))
+[![Gmail](https://img.shields.io/badge/-isahaqali331065-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:isahaqali331065@gmail.com)
+<!--[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)-->
