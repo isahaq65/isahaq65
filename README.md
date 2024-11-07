@@ -74,7 +74,7 @@
 <table><tr><td valign="top" width="33%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahaq65&layout=compact&theme=white&langs_count=10&exclude_repo=isahaq65">
 </td><td valign="top" width="33%">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=isahaq65&count_private=true&show_icons=trueline_height=21&theme=white">	
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=false">    <img  alt="isahaq65's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isahaq65?cardType=github&preferLogin=false" />  </a>
   </td><td valign="top" width="33%">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq65&theme=white">
     </td><td valign="top" width="33%">
